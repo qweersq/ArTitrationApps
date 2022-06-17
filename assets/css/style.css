@@ -108,10 +108,10 @@ a:visited {
   display: inline-block;
   border: none;
   outline: none;
-  background-color: #0456fb;
+  background-color: #000;
   font-size: 15px;
   font-weight: bold;
-  color: #1c1d3f;
+  color: #ffffff;
   font-size: 16px;
   font-weight: 600;
   padding: 10.5px 40px;
@@ -121,8 +121,8 @@ a:visited {
 }
 
 .thm-btn:hover {
-  background-color: #ffc516;
-  color: #1c1d3f;
+  background-color: #0456fb;
+  color: #ffffff;
 }
 
 .post-pagination {
@@ -2615,4 +2615,13 @@ a:visited {
 	-ms-flex: 1 1 auto;
 	flex: 1 1 auto;
 	padding: 0 0 0 1rem;
+}
+
+.right-side-box{
+  display: flex;
+  justify-content: center;
+}
+
+.panduan {
+  font-weight: bolder;
 }
