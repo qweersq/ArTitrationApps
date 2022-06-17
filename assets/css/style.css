@@ -516,7 +516,7 @@ a:visited {
 }
 
 .site-header__header-one .stricked-menu {
-  background-color: #1c1d3f;
+  background-color: #1fbff4;
 }
 
 .site-header__header-two {
@@ -1570,68 +1570,6 @@ a:visited {
 
 .site-footer__copy a:hover {
   color: #fff;
-}
-
-.site-footer__social {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-
-.site-footer__social a {
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  background-color: #ffc516;
-  text-align: center;
-  line-height: 44px;
-  color: #fff;
-  font-size: 16px;
-  -webkit-transition: all .4s ease;
-  transition: all .4s ease;
-}
-
-.site-footer__social a + a {
-  margin-left: 10px;
-}
-
-.site-footer__social a.fa-facebook-square {
-  background-color: #3472c7;
-}
-
-.site-footer__social a.fa-facebook-square:hover {
-  background-color: #fff;
-  color: #3472c7;
-}
-
-.site-footer__social a.fa-twitter {
-  background-color: #1bc9f4;
-}
-
-.site-footer__social a.fa-twitter:hover {
-  background-color: #fff;
-  color: #1bc9f4;
-}
-
-.site-footer__social a.fa-instagram {
-  background-color: #901bf4;
-}
-
-.site-footer__social a.fa-instagram:hover {
-  background-color: #fff;
-  color: #901bf4;
-}
-
-.site-footer__social a.fa-pinterest-p {
-  background-color: #f13f69;
-}
-
-.site-footer__social a.fa-pinterest-p:hover {
-  background-color: #fff;
-  color: #3472c7;
 }
 
 .footer-widget__links-wrap {
