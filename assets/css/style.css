@@ -2687,3 +2687,18 @@ a:visited {
 .panduan {
   font-weight: bolder;
 }
+
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+  margin-left: 10%;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 80%;
+  height: 80%;
+}

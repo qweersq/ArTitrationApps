@@ -410,9 +410,12 @@ Copyright (c) 2015 Daniel Eden
     }
 
     100% {
-        -webkit-transform: scale3d(1, 1, 1);
+        -webkit-transform:;
         transform: scale3d(1, 1, 1);
-    }
+        -moz-transform:;
+        -ms-transform:;
+        -o-transform:;
+}
 }
 
 @keyframes tada {
